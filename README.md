@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo. Meu nome é Eduardo, com alias virtual "EdxzyLuksz".</h1>
 
 <div align="center">
-  <img src="assets/pfp/FlinsPFP.png" width="200" />
+  <img src="EdxzysBanner.png" width="700"/>
 </div>
 
 Atualmente tenho 16 anos, e me insiro no mundo dev através do curso técnico de <a href="https://github.com/edxzyluksz/Desenvolvimento-de-Sistemas">Desenvolvimento de Sistemas</a> dado por professores incríveis pela instituição SENAI - Serviço Nacional de Aprendizagem Industrial. Para mais informações, clique no hiperlink que contém todos os aprendizados atuais em um repositório à parte.
