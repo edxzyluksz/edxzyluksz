@@ -12,5 +12,6 @@ Sempre aberto à novos conhecimentos e experiências de trabalho a fim de atingi
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=edxzyluksz&layout=compact&count_private=true&theme=calm)](#)
 
-[![Footer Decoration](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=#a193f4&height=500")](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=edxzyluksz&style=flat-square&color=123845)](#)
 
+[![Footer Decoration](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=#a193f4&height=500")](#)
