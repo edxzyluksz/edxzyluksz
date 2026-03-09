@@ -10,7 +10,7 @@ Sempre aberto à novos conhecimentos e experiências de trabalho a fim de atingi
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=edxzyluksz&theme=iceberg&border_radius=8&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_height=150)](#)
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=edxzyluksz&layout=compact&count_private=true&theme=calm)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=edxzyluksz&layout=compact&count_private=true&theme=calm&hide=cpp,shaderlab,c%23)](#)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=edxzyluksz&style=flat-square&color=123845)](#)
 
