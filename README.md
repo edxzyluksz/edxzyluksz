@@ -25,5 +25,5 @@
 </pre>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=robloxstudio,html,css,vscode,python,mysql,git,js,flutter,java,postgres,linux,c,php"/>
+  <img src="https://skillicons.dev/icons?i=robloxstudio,html,css,vscode,python,mysql,git,js,flutter,java,postgres,linux,c,php,ts"/>
 </div>
