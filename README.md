@@ -19,9 +19,10 @@
 
 <pre>
   ~$ cat > README.md
-  > A young starting developer who wishes to turn computing knowledge upside down.
+  > A Computer Science explorer, who wishes to turn tech knowledge upside down.
   > From bit-level programming to framework abstractions, it's simply a passion which will never stop growing.
   > Where it all started: <a href="https://www.github.com/edxzyluksz/Desenvolvimento-de-Sistemas">Desenvolvimento de Sistemas</a>
+  > Never forgets.
 </pre>
 
 <div align="center">
